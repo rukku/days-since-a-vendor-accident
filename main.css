@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "helvetica neue", "helvetica", "arial", sans-serif;
+  color: #666;
+  padding-top: 2%;
+  text-align: center;
+}
+
+h1, h2, h3 {
+  color: #666;
+}
+
+.statement {
+  font-size: 8em;
+  margin: 0 auto;
+  width: 80%;
+}
+
+
+.days-since{
+  font-family: 'Shadows Into Light', cursive;
+  color: rgb(215, 39, 39);
+  display: inline-block;
+  border: 2px solid #333;
+  height: 1.2em;
+  width: 1.4em;
+}
